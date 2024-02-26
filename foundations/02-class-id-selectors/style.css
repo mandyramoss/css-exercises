@@ -1,0 +1,12 @@
+.odd {
+    background-color: rgb(243, 171, 183);
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+
+}#title {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd.big {
+    font-size: 24px;
+}
